@@ -1,0 +1,12 @@
+{
+  "name": "wikiLounge",
+  "version": "1.0.0",
+  "description": "access to wikipedia thru API",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "Leo Beltran",
+  "license": "ISC"
+}

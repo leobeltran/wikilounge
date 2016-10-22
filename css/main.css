@@ -1,0 +1,60 @@
+body {
+  background-image: url("/wikiLounge3.jpg");
+  background-size: 2000px 1400px;
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.card-title{
+  color: rgba(255,255,255, 0.7);
+  font-style: oblique;
+}
+
+.card{
+  background-color: rgba(100, 0, 0, 0.7);
+  border-radius: 7px;
+  border-color: rgba(100, 0, 0, 0.4);
+  padding: 1.5rem;
+  margin: 2.2rem;
+  -webkit-animation-duration: 1s;
+  -webkit-animation-delay: 0.5s;
+  -webkit-animation-iteration-count: 1;
+}
+
+.card-text{
+  color: rgba(255,255,255, 0.9);
+}
+
+.btn-primary {
+  background: #3d0066;
+  color: #E2E1E0;
+  border-color: #3d0066;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active{
+  color: #fff;
+  background-color: #600080;
+  border-color: #600080;
+}
+
+.navbar{
+  height: 10rem;
+  background-color: black;
+  border-top-color: #b36b00;
+  border-bottom-color: #b36b00;
+  border-left-color: black;
+  border-right-color: black;
+  padding-top: 2rem;
+  font-size: 
+}
+
+#hidingDiv{
+  height: 250px;
+}
+
+#nav{
+  -webkit-animation-duration: 1.2s;
+  -webkit-animation-delay: .07s;
+  -webkit-animation-iteration-count: 1;
+}
